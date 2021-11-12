@@ -1,0 +1,135 @@
+Time: 0
+0 3 3
+1 4 3
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 1
+0 3 3
+1 4 3
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 2
+0 3 3
+1 4 3
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 3
+1 4 3
+2 17 4
+3 24 3
+Server{tasks=[(0,3,3) ]}
+Server{tasks=[]}
+Time: 4
+2 17 4
+3 24 3
+Server{tasks=[(0,3,3) ]}
+Server{tasks=[(1,4,3) ]}
+Time: 5
+2 17 4
+3 24 3
+Server{tasks=[(0,3,3) ]}
+Server{tasks=[(1,4,3) ]}
+Time: 6
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[(1,4,3) ]}
+Time: 7
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 8
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 9
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 10
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 11
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 12
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 13
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 14
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 15
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 16
+2 17 4
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 17
+3 24 3
+Server{tasks=[(2,17,4) ]}
+Server{tasks=[]}
+Time: 18
+3 24 3
+Server{tasks=[(2,17,4) ]}
+Server{tasks=[]}
+Time: 19
+3 24 3
+Server{tasks=[(2,17,4) ]}
+Server{tasks=[]}
+Time: 20
+3 24 3
+Server{tasks=[(2,17,4) ]}
+Server{tasks=[]}
+Time: 21
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 22
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 23
+3 24 3
+Server{tasks=[]}
+Server{tasks=[]}
+Time: 24
+Server{tasks=[(3,24,3) ]}
+Server{tasks=[]}
+Time: 25
+Server{tasks=[(3,24,3) ]}
+Server{tasks=[]}
+Time: 26
+Server{tasks=[(3,24,3) ]}
+Server{tasks=[]}
+Time: 27
+Server{tasks=[]}
+Server{tasks=[]}
+peakHour: 4
+averageWaitingTime: 3.25
+averageServiceTime: 3.25
