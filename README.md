@@ -1,4 +1,4 @@
-![Design Industrial - UTCN](Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.001.jpeg)
+![Design Industrial - UTCN](images/Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.001.jpeg)
 
 **Programming Techniques**
 
@@ -57,7 +57,7 @@ Contents:
 
 &nbsp;&nbsp;The following flow-chart resumes all the scenarios the user can go through. 
 
-![](Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.002.png)
+![](images/Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.002.png)
 
 &nbsp;&nbsp;The application is done in such a manner that if the input is wrong an error message will be displayed and the user has to introduce the correct input.
 
@@ -73,7 +73,7 @@ Contents:
 
 &nbsp;&nbsp;Regarding the OOP design, the use of the Scheduler that manipulates the Server is the one that reflects it the most, as all the Servers/Queues are initiated in the Scheduler’s constructor and are managed by means of the Scheduler’s functions. In the main thread, the Simulation Managed, there is only one instance of a Scheduler, so the program is safe in terms of the creation and starting of the threads, as I assured that they are only created and started once. Moreover, in order to display the Tasks and Servers, I have overridden the toString method of the classes and changed them accordingly to my own needs. I have also used an Interface and an Enumerator, as well as using an MVC pattern for my application.
 
-![](Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.003.png)
+![](images/Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.003.png)
 
 &nbsp;&nbsp;
 
@@ -113,13 +113,13 @@ There also exists a **Main** class that contains the main function and it has th
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*e. UI part*
 
-![](Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.004.png)
+![](images/Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.004.png)
 
 &nbsp;&nbsp;Above is a screenshot of the MainMenu controller, where the used can introduce the data for the queueSimulation. If the data introduced is not correct, and error message will be displayed on the screed.
 
 &nbsp;&nbsp;After pressing the Setup button, the window from below will be displayed and the used simply has to press the “Start” button in order to start the simulation.
 
-![](Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.005.png)
+![](images/Aspose.Words.5b6a51dd-cc9f-47ac-8993-28e80a57ba9f.005.png)
 
 
 
